@@ -1,2 +1,2 @@
-# HH-Bot-Dashboard
+# Music-Bot-Dashboard
 Open source
